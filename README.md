@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrebezbirolo&label=Profile%20views&color=610eb4&style=flat" alt="andrebezbirolo" /> </p>
 
-- 🔭 I’m currently working on [MARVEL API](https://github.com/AndreBezBirolo/Marvel-API)
+- 🔭 I’m currently working on [Animais Fantasticos - Origamid](https://github.com/AndreBezBirolo/javascript-origamid)
 
 - 🌱 I’m currently learning **Python and React**
 
