@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python and React**
 
-- 🤝 I’m working in **Cayman Sistemas**
+- 🤝 I’m working in **ED Company**
 
 - 👨‍💻 All of my projects are available at [https://andrejbezbirolo.tech/](https://andrejbezbirolo.tech/)
 
