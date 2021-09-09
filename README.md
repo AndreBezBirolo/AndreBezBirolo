@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Animais Fantasticos - Origamid](https://github.com/AndreBezBirolo/javascript-origamid)
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python and Angular**
 
 - 🤝 I’m working in **ED Company**
 
