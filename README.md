@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrebezbirolo&label=Profile%20views&color=610eb4&style=flat" alt="andrebezbirolo" /> </p>
 
-- 🔭 I’m currently working on [Animais Fantasticos - Origamid](https://github.com/AndreBezBirolo/javascript-origamid)
+- 🔭 I’m currently working on [Alura Projects](https://github.com/AndreBezBirolo/projeto-angular-alura)
 
 - 🌱 I’m currently learning **Python and Angular**
 
@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on my linkedin [https://www.linkedin.com/in/andre-j-bez-birolo/](https://www.linkedin.com/in/andre-j-bez-birolo/)
 
-- 💬 We can talk about **Web development, react.**
+- 💬 We can talk about **Web development, angular.**
 
 - 📄 Know about my experiences [https://andre-j-bez-birolo.notion.site/Andr-Joaquim-Bez-Birolo-9eec813b31ca495faa09bd9875a27f08](https://andre-j-bez-birolo.notion.site/Andr-Joaquim-Bez-Birolo-9eec813b31ca495faa09bd9875a27f08)
 
