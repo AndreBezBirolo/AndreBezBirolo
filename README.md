@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrebezbirolo&label=Profile%20views&color=610eb4&style=flat" alt="andrebezbirolo" /> </p>
 
-- 🔭 I’m currently working on [Alura Projects](https://github.com/AndreBezBirolo/projeto-angular-alura)
+- 🔭 I’m currently working on Personal Projects
 
-- 🌱 I’m currently learning **Python and Angular**
+- 🌱 I’m currently perfecting myself in **Angular**
 
-- 🤝 I’m working in **ED Company**
+- 🤝 I’m searching for work
 
-- 👨‍💻 All of my projects are available at [https://andrejbezbirolo.tech/](https://andrejbezbirolo.tech/)
+- 👨‍💻 All of my projects are available at [https://andrebezbirolo.github.io](https://andrebezbirolo.github.io)
 
 - 📝 I regularly write articles on my linkedin [https://www.linkedin.com/in/andre-j-bez-birolo/](https://www.linkedin.com/in/andre-j-bez-birolo/)
 
