@@ -1,7 +1,7 @@
 <h1 align="center">Bem vindo! Eu sou o André!</h1>
 <h3 align="center">Meu objetivo é me tornar referência em desenvolvimento com acessibilidade.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrebezbirolo" alt="andrebezbirolo" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrebezbirolo&label=Profile%20views&color=0e75b6&style=flat" alt="andrebezbirolo" /> </p>
 
 - 🔭 Trabalho hoje na **Engineering Brasil**
 
