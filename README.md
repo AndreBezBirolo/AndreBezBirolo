@@ -11,9 +11,9 @@
 
 - 🤝 Comecei a me aperfeiçoar em **Java**
 
-- 💬 Meu portfólio é **link https://andrebezbirolo.github.io/#/home**
+- 💬 Meu  **[portfólio](https://andrebezbirolo.github.io/#/home)**
 
-- 📫 Escrevo artigos no meu linkedin **link https://www.linkedin.com/in/andre-jbb/**
+- 📫 Escrevo artigos no meu  **[linkedin](https://www.linkedin.com/in/andre-jbb/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
